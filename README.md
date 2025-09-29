@@ -6,13 +6,13 @@
 </br></br>
 #### 나는 어떤 개발자?
 :pencil2: 열심히 배우고 찾고 적용하는 개발자 </br>
- - 필요한 기술은 빠르게 학습하고, 직접 적용하며 문제를 해결해 나갑니다. </br>
+ - 필요한 기술은 빠르게 학습하고 직접 적용하며 문제를 해결해 나갑니다. </br>
  
-:bookmark_tabs: 꼼꼼하고 정리하는 개발자 </br>
- - 누가 봐도 이해하기 쉬운 구조와 명확한 흐름으로 작성하려 노력합니다. </br>
+ :bell: 도전과 실험을 즐기는 개발자 </br>
+ - 실패를 두려워하지 않고 다양한 방안을 탐구하며 최선의 해결책을 찾고자 합니다.  </br>
 
  :bulb: 사용자 경험을 고려하는 개발자 </br>
- - 기능 구현을 할 때 사용자의 시선에서 생각하며, 편리하고 직관적인 인터페이스를 만드는 데 집중합니다. </br>
+ - 기능 구현을 할 때 사용자의 시선에서 생각하며 편리하고 직관적인 인터페이스를 만드는 데 집중합니다. </br>
 
 </br></br>
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +28,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dPfls1211&show_icons=true&locale=en&langs_count=8&layout=compact" alt="dPfls1211" /></p>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dPfls1211&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
